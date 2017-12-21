@@ -1,4 +1,4 @@
-int CLocalListener::start_local_service()
+int main()
 {
 
     int ret = -1;
